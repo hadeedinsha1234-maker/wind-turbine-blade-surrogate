@@ -70,7 +70,3 @@ Max Von Mises Stress: Applied load F overwhelmingly dominates (S1=0.893), fiber 
 👤 Author
 
 Hadeed Insha — Mechanical Engineer specializing in computational mechanics, Finite Element Analysis, composite materials, and physics-informed machine learning
-
----
-
-Paste this in your GitHub README and commit it. Tell me when done.

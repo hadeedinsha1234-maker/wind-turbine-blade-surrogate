@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+airfoil.xdmf
+airfoil.xdmf.h5
+graphs.pt
+log.txt
+*.log
